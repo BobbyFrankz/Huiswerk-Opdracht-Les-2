@@ -63,7 +63,6 @@ li a:hover:not(.active) {
 
 
 
-
 }
 .para-graf {
     display: flex;
@@ -76,6 +75,7 @@ li a:hover:not(.active) {
     text-align: center;
     font-size: large;
 
+
 }
 .article-box  {
 
@@ -86,6 +86,7 @@ li a:hover:not(.active) {
     border-radius: 4px;
     background-color: #dc9e82;
     text-align: center;
+
 
 
 }
